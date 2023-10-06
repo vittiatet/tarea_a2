@@ -1,6 +1,6 @@
 
 package sales_app;
-
+//vas a caer chumacero
 import java.util.Scanner;
 
     /*
@@ -24,7 +24,7 @@ public class Sales_App {
             System.out.println("2. Crear y mostrar un formulario del proveedor");
             System.out.println("3. Mostrar las partes");
             System.out.println("4. Mostrar los datos del envío");
-            System.out.println("5. Agregar un envío");
+            System.out.println("5. Agregar un envío");P
             System.out.println("6. Eliminar un envío");
             System.out.println("0. Salir");
             System.out.print("Ingrese el número de la opción que desea realizar: ");
